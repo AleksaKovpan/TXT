@@ -1,0 +1,7 @@
+Title: Появляется сообщение об ошибке "All Fields are Required" при заполнении валидной информацией только обязательных полей
+Invironmet: Google Chrome, Версия 105.0.5195.54 (Официальная сборка), (64 бит)
+Precondition: Зайти по ссылке http://itcareer.pythonanywhere.com/
+STR: 1. Ввести валидную информацию во все обязательные поля (Name, Email, Password), поле Surname оставить пустым
+     2. Нажать кнопку Submit
+AR: Появляется сообщение об ошибке "All Fields are Required"
+ER: Появляется сообщение об успешной регистрации
