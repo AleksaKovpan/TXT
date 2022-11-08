@@ -1,0 +1,5 @@
+first_name - Aleksandra
+last_name - Kovpan
+age - 36
+pets - 1
+salary - 1000
