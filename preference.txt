@@ -1,0 +1,5 @@
+favourite_film: Avatar
+favourite_serial: Friends
+favourite_food: Croissant
+favourite_season: Spring
+visiying_a_country: USA
